@@ -10,4 +10,7 @@
     <string name="drop_down_list_footer_no_more_text">No More</string>
     
     <string name="image_content">Image</string>
+    
+    <string name="text_ok">确定</string>
+    <string name="text_cancel">取消</string>
 </resources>
