@@ -28,3 +28,6 @@ proguard/
 
 # for mac
 *.DS_Store
+
+#other
+*.classpath
